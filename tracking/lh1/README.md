@@ -3,8 +3,8 @@
 <img src="V1.6/basestation1.jpg" style="height:auto;width:50%;">
 
 ### IR shots
-<img src="V1.6/basestation2.jpg" style="height:auto;width:50%;">
-<img src="V1.6/basestation3.jpg" style="height:auto;width:50%;">
+<img src="V1.6/basestation2.JPG" style="height:auto;width:50%;">
+<img src="V1.6/basestation3.JPG" style="height:auto;width:50%;">
 
 ### Mechanical scheme
 <img src="V1.6/mech_scheme.jpg" style="height:auto;width:90%;">
