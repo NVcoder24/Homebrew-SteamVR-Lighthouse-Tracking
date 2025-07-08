@@ -28,6 +28,18 @@
 <img src="V1.6/graph1.png" style="height:auto;width:100%;">
 <img src="V1.6/graph2.png" style="height:auto;width:100%;">
 
+## Prototype htc wand inspired tracked object V1.2 (work in progress)
+### CAD model
+<img src="V1.6/cadwand12_1.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand12_2.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand12_3.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand12_4.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand12_5.png" style="height:auto;width:70%;">
+
+### Real life pictures
+<img src="V1.6/irlwand1.png" style="height:auto;width:70%;">
+<img src="V1.6/irlwand2.jpg" style="height:auto;width:70%;">
+
 ## Contact
 Telegram: @nvcoder
 
