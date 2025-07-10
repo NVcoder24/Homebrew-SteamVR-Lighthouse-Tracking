@@ -30,13 +30,17 @@
 
 ## Prototype htc wand inspired tracked object V1.2 (work in progress)
 ### CAD model
-<img src="V1.6/cadwand12_1.png" style="height:auto;width:70%;">
-<img src="V1.6/cadwand12_2.png" style="height:auto;width:70%;">
-<img src="V1.6/cadwand12_3.png" style="height:auto;width:70%;">
-<img src="V1.6/cadwand12_4.png" style="height:auto;width:70%;">
-<img src="V1.6/cadwand12_5.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand122_1.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand122_2.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand122_3.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand122_4.png" style="height:auto;width:70%;">
+<img src="V1.6/cadwand122_5.png" style="height:auto;width:70%;">
 
 ### Real life pictures
+<img src="V1.6/irl_wand122_1.jpg" style="height:auto;width:70%;">
+<img src="V1.6/irl_wand122_2.jpg" style="height:auto;width:70%;">
+
+### Real life valve prototypes pictures
 <img src="V1.6/irlwand1.png" style="height:auto;width:70%;">
 <img src="V1.6/irlwand2.jpg" style="height:auto;width:70%;">
 
